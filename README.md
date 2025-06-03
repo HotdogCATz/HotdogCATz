@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HotdogCATz
 - 👀 I’m interested in warming hotdog, programming, cat, cat, cat and cats
-- 🌱 I’m currently learning java, C programming
-- 📫 How to reach me :
 wutichaipatthaisong@gmail.com <personal e-mail>
 
 <!---
